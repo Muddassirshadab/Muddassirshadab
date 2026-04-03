@@ -6,12 +6,12 @@
 
 <div align="left">
   <ul>
-    <li>🔭 I’m currently working on <b>Web3 & AI Projects</b></li>
-    <li>👯 I’m looking to collaborate on <b>Open Source Web3 Tools</b></li>
-    <li>🤝 I’m looking for help with <b>AI/ML & Automation Projects</b></li>
-    <li>🌱 I’m currently learning <b>Web3, Smart Contracts, AI, Machine Learning, Automation, System Design</b></li>
-    <li>💬 Ask me about <b>python, nodejs, web3, ai, machine learning, automation, backend development</b></li>
-    <li>⚡ Fun fact <b>I like building things related to automation, AI and Web3.</b></li>
+    <li>💻 Developer interested in SaaS, Automation, Web3 and AI</li>
+    <li>🚀 Currently learning Web3, Machine Learning and System Design</li>
+    <li>🛠️ Building projects using MERN, Python and APIs</li>
+    <li>🔗 Interested in startups, SaaS products and scalable systems</li>
+    <li>🤝 Open to collaboration on interesting projects</li>
+    <li>⚡ I like building products and automation tools</li>
   </ul>
 </div>
 
