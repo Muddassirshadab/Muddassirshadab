@@ -52,11 +52,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muddassirshadab&theme=dracula" alt="github streak" />
-</div>
-
-###
